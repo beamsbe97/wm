@@ -1,0 +1,5 @@
+numpy
+opencv-python
+picamera2
+picar-4wd
+google-genai
