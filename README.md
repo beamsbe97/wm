@@ -6,4 +6,6 @@ pip install requirements.txt
 ```
 
 To run the code:
-```python proj2.py```
+```
+python proj2.py
+```
